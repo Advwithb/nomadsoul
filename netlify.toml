@@ -1,4 +1,4 @@
-[bu[build]
+[build]
   command = "npm run build"
   publish = "public"
 
